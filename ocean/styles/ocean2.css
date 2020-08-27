@@ -42,13 +42,13 @@ url('font/Alegreya-BoldItalic.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Londrina';
+  font-family: 'Courgette';
   font-weight: normal;
   font-style: normal;
-src: url('font/LondrinaSolid.eot');
-src: url('font/LondrinaSolid.eot?#iefix') format('embedded-opentype'),
-url('font/LondrinaSolid.woff2') format('woff2'),
-url('font/LondrinaSolid.woff') format('woff');
+src: url('font/Courgette.eot');
+src: url('font/Courgette.eot?#iefix') format('embedded-opentype'),
+url('font/Courgette.woff2') format('woff2'),
+url('font/Courgette.woff') format('woff');
   font-display: swap;
 }
 
@@ -300,7 +300,7 @@ a[rel~="external"]:hover, a.ext:hover {
 
   .site-header a, 
   .site-header a:visited {
-    font-family: Londrina, sans-serif; 
+    font-family: Courgette, sans-serif; 
     padding: 2px 4px;
     height: 1.618em;
     border-radius: 0.5em;
@@ -321,7 +321,7 @@ a[rel~="external"]:hover, a.ext:hover {
   .paginator a, 
   .site-footer a.prev, 
   .site-footer a.up {
-    font-family: Londrina, sans-serif;
+    font-family: Courgette, sans-serif;
   }
 
   a.topl,
@@ -403,7 +403,7 @@ h4  {
   }
 
 h1 {
-  font: normal normal 2em/1 Londrina, sans-serif;
+  font: normal normal 2em/1 Courgette, sans-serif;
   margin: 0.809em 0 1.618em;
   padding: 1.618em 0 0;
   text-transform: capitalize;
@@ -414,7 +414,7 @@ p.subhead {
   }
 
 h2 {
-  font: normal normal 2em/1.618 Londrina, sans-serif;
+  font: normal normal 2em/1.618 Courgette, sans-serif;
   margin: 1.618em 0 0;
   padding: 0;
   text-transform: capitalize;
@@ -435,7 +435,7 @@ h2 {
   }
  
 h3 {
-  font: normal normal 1.8em/.9 Londrina, sans-serif;
+  font: normal normal 1.8em/.9 Courgette, sans-serif;
   margin: 0;
   padding-top: .9em;
   }
@@ -450,13 +450,13 @@ h3 {
   padding-bottom:.45em;
   }
 h4 { 
-  font: normal normal 1.35em/1.2 Londrina, sans-serif;
+  font: normal normal 1.35em/1.2 Courgette, sans-serif;
   margin: 1.2em 0 0;
   }
 
 .site-header h1, 
 .site-header nav {
-  font: normal normal 1rem/1.1618 Londrina, sans-serif;  
+  font: normal normal 1rem/1.1618 Courgette, sans-serif;  
   padding: 0;
   display: inline-block; 
   text-indent: 0;
@@ -472,7 +472,7 @@ h4 {
   padding-top: 0.405em; 
   }
 .ss label {
-  font-family: Londrina, sans-serif;
+  font-family: Courgette, sans-serif;
   text-indent: 0;
   margin: 1.618em 0 0; 
   width: 100%; 
@@ -530,7 +530,7 @@ h4 {
   font-family: AlegreyaSC, sans-serif;
 }
 q:before, q:after {
-  font-family: Londrina, sans-serif;
+  font-family: Courgette, sans-serif;
 }
 
 
@@ -543,7 +543,7 @@ q:before, q:after {
     font-weight: bolder;
   }
   b.required {
-    font-family: Londrina, sans-serif;
+    font-family: Courgette, sans-serif;
   }
   /**
    * Add vertical margin to addresses.
@@ -1992,4 +1992,3 @@ samp
     content: "●";
     color: lightpink;
 }
-
